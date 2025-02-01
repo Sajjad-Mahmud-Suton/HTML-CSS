@@ -23,5 +23,5 @@ You'll find a variety of folders, each containing unique projects:
 ## ⚡ **How to Use?**  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/HTML-CSS.git](https://github.com/Sajjad-Mahmud-Suton/HTML-CSS.git)
+   git clone https://github.com/Sajjad-Mahmud-Suton/HTML-CSS.git
 
