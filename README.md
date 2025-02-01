@@ -14,14 +14,36 @@ You'll find a variety of folders, each containing unique projects:
 
 ---
 
-## 🚀 **Tech Stack**  
-- **HTML5**  
-- **CSS3** (Flexbox, Grid, Animations)  
 
 ---
 
-## ⚡ **How to Use?**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Sajjad-Mahmud-Suton/HTML-CSS.git
+## 🚀 **Goals:**  
+- Build clean, semantic, and well-structured web pages.  
+- Practice modern CSS techniques for better UI/UX.  
+- Develop responsive websites for all screen sizes.  
+
+---
+
+## 🛠️ **Technologies Used:**  
+- **HTML5**  
+- **CSS3**  
+- **Flexbox & CSS Grid**  
+- **Responsive Web Design**  
+
+---
+
+## 📈 **Future Plans:**  
+- Integrate simple JavaScript for interactivity.  
+- Create advanced web layouts with animations.  
+- Experiment with CSS frameworks like Bootstrap or Tailwind.  
+
+---
+
+## 🙌 **Feedback & Suggestions**  
+If you have any feedback or suggestions to improve my code, feel free to open an issue or submit a pull request. Your input is always welcome! 💡  
+
+---
+
+**Happy Coding! ❤️**  
+
 
